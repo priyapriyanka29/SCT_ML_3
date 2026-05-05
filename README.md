@@ -7,7 +7,7 @@ It implements a **Support Vector Machine (SVM)** model with **HOG feature extrac
 ---
 
 ## 🚀 Live Demo  
-👉 https://your-app-name.streamlit.app  
+👉 https://sctml3-57oexvefxrefqgxnle9cnk.streamlit.app/
 
 ---
 
