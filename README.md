@@ -28,7 +28,3 @@ It implements a **Support Vector Machine (SVM)** model with **HOG feature extrac
 - **Feature Extraction:** HOG (Histogram of Oriented Gradients)  
 - **Image Size:** 128x128  
 - **Task Type:** Binary Classification  
-
----
-
-
